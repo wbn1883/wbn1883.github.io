@@ -6,7 +6,7 @@ published: true
 hideInList: false
 feature: 
 isTop: false
-mathjax: true
+katex: true
 ---
 
 最近项目需要用到网格，来自fwidth()的ddx ddy抗锯齿线条
