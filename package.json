@@ -12,7 +12,6 @@
     "version": "6.2.0"
   },
   "dependencies": {
-    "@upupming/hexo-renderer-markdown-it-plus": "^2.0.2",
     "hexo": "^6.2.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",

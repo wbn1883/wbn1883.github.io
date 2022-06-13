@@ -6,14 +6,12 @@ published: true
 hideInList: false
 feature: 
 isTop: false
-katex: true
 ---
 
 最近项目需要用到网格，来自fwidth()的ddx ddy抗锯齿线条
 ![](https://wbn1883.github.io//post-images/1650258960665.png)
 这里贴一下shader:
 
-# $\int(l,v)$ = $\frac{DFG}{4(n \cdot l)(n \cdot v)}$
 
 ```swift
 Shader "Unlit/AAGrid"
